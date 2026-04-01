@@ -1,1 +1,1 @@
-# O-analiza-a-unor-metode-de-sortare
+# Este necesar să știm atâtea metode de a sorta un tablou?
