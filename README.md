@@ -11,4 +11,4 @@ Acest repository va conține următoarele fișiere:\
 -Un header file, „sortalg.h”, care conține funțiile și implementările algoritmilor;\
 -Un fisier Excel, „Comparație.exl”, care conține date despre timpul de execuție al algoritmilor (pe baza tipurilor de date introduse) și o comparație dinte algoritmi bazata pe timpii de execuție;\
 -Două fișiere, „Date totale01.txt” și „Date totale02.txt”, care contin TOATE datele de intrare care vor fi folosite în testare (separate linie cu linie, respectiv separate printr-un rând gol);\
-IMPORTANT: Multe dintre datele de intrare pentru testarea acestor algoritmi (valorile tablourilor) au fost generate cu inteligenta artificiala (ChatGPT 5.3), pentru a scurta timpul introducerii acestor date.\
+IMPORTANT: Toate datele de intrare pentru testarea acestor algoritmi (valorile tablourilor) au fost generate cu inteligenta artificiala (ChatGPT 5.3), pentru a scurta timpul introducerii acestor date.\
